@@ -1,2 +1,2 @@
 # Maven
-Maven learn
+Maven learning
